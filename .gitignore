@@ -1,0 +1,13 @@
+env/
+__pycache__/
+downloaded_images/
+
+SCRAPER.pem
+
+creds.json
+listing.json
+listing.model.ts
+test.html
+test.txt
+test2.txt
+test.py
